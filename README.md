@@ -151,7 +151,7 @@ Workflow     ▸  Claude Code · Cursor · GitHub Copilot · AI-native engineeri
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiloo7&theme=tokyonight&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilOO7&theme=tokyonight&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" height="180" />
 
 <br/><br/>
 
