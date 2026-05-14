@@ -145,8 +145,7 @@ Workflow     ▸  Claude Code · Cursor · GitHub Copilot · AI-native engineeri
 ### `> ./github_stats`
 
 <a href="https://github.com/NikhilOO7">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NikhilOO7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&cache_seconds=86400" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilOO7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NikhilOO7&bg_color=0d1117&color=D4AF37&line=D4AF37&point=ffffff&area=true&hide_border=true" />
 </a>
 
 <br/><br/>
