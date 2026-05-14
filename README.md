@@ -118,7 +118,7 @@ Workflow     ▸  Claude Code · Cursor · GitHub Copilot · AI-native engineeri
 >
 > **`03 · velocity`** &nbsp; Ship, then polish — instrument production first, optimize on data, not on the design doc.
 >
-> **`05 · judgment`** &nbsp; Strong opinions, loose grip — argue hard with evidence, drop the position cleanly when better evidence arrives.
+> **`04 · judgment`** &nbsp; Strong opinions, loose grip — argue hard with evidence, drop the position cleanly when better evidence arrives.
 
 <div align="right">
 
