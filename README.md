@@ -128,18 +128,30 @@ Workflow     ▸  Claude Code · Cursor · GitHub Copilot · AI-native engineeri
 
 ---
 
+## `> ./commendations`
+
+<div align="center">
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=nikhiloo7&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+</a>
+
+</div>
+
+---
+
 <div align="center">
 
 ### `> ./github_stats`
 
 <a href="https://github.com/NikhilOO7">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NikhilOO7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilOO7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nikhiloo7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9&cache_seconds=86400" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhiloo7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8&cache_seconds=86400" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilOO7&theme=tokyonight&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" height="180" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiloo7&theme=tokyonight&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" height="180" />
 
 <br/><br/>
 
