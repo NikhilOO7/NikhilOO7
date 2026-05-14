@@ -1,36 +1,148 @@
-<h1 align="center">Hi 👋, I'm Nikhil Bindal</h1>
-<h3 align="center">A passionate Full-Stack & AI Infrastructure Engineer from Boston, USA</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhiloo7&label=Profile%20views&color=0e75b6&style=flat" alt="nikhiloo7" /> </p>
+# `> Nikhil Bindal`
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikhiloo7" alt="nikhiloo7" /></a> </p>
+### Full-Stack & AI Infrastructure Engineer
 
-- 🔭 I’m currently working on [Voice Document Intelligence Platform](https://github.com/NikhilOO7/voice-doc-intelligence)
+`SF · 37.7749°N · 122.4194°W` &nbsp;·&nbsp; `STATUS: AVAILABLE` &nbsp;·&nbsp; `JARVIS · v4.7 · ONLINE`
 
-- 🌱 I’m currently learning **Multi-Agent Orchestration, LangGraph, CrewAI, RAG Pipelines, MLOps**
+[![Portfolio](https://img.shields.io/badge/-nikhilbindal.com-0d1117?style=for-the-badge&logo=safari&logoColor=D4AF37&labelColor=0d1117)](https://nikhilbindal.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-bindal)
+[![X](https://img.shields.io/badge/-@NikhilBindal2-000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/NikhilBindal2)
+[![Email](https://img.shields.io/badge/-nikhil.bindal@outlook.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:nikhil.bindal@outlook.com)
 
-- 👯 I’m looking to collaborate on [Agentic AI & Real-Time Voice Systems](https://nikhilbindal.com)
+</div>
 
-- 👨‍💻 All of my projects are available at [https://nikhilbindal.com](https://nikhilbindal.com)
+---
 
-- 💬 Ask me about **Agentic AI, Real-Time Voice AI, WebRTC, Node.js, FastAPI, System Design, Multi-Agent RAG**
+## `> whoami`
 
-- 📫 How to reach me **nikhilbindal983@gmail.com**
+AI infrastructure engineer with **6+ years shipping production systems** at the intersection of LLMs, real-time voice, and distributed backends. I build agentic systems that survive contact with production — not demos. Currently architecting multi-agent platforms with persistent memory and sub-200ms voice pipelines.
 
-- 📄 Know about my experiences [https://nikhilbindal.com/about](https://nikhilbindal.com/about)
+- 🛰️ &nbsp; **Currently** — AI Infrastructure Engineer @ Neurologica · multi-agent orchestration & memory architectures
+- 🔬 &nbsp; **Flagship build** — [Voice Document Intelligence Platform](https://github.com/NikhilOO7/voice-doc-intelligence) · real-time voice RAG, sub-50ms retrieval
+- 🎯 &nbsp; **Focus** — agentic systems · real-time voice AI · RAG at scale · event-driven backends
+- 📡 &nbsp; **Reach me** — [nikhil.bindal@outlook.com](mailto:nikhil.bindal@outlook.com) &nbsp;·&nbsp; [nikhilbindal.com](https://nikhilbindal.com)
 
-- ⚡ Fun fact **I built a JARVIS-themed AI portfolio — my AI assistant greets every visitor!**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nikhil-bindal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikhil-bindal" height="30" width="40" /></a>
-</p>
+## `> ./featured_projects`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhiloo7&show_icons=true&locale=en&layout=compact" alt="nikhiloo7" /></p>
+**`FILE-001 · class::ALPHA`**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhiloo7&show_icons=true&locale=en" alt="nikhiloo7" /></p>
+### [Voice Document Intelligence](https://github.com/NikhilOO7/voice-doc-intelligence)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhiloo7&" alt="nikhiloo7" /></p>
+Real-time voice-based document Q&A with a multi-agent RAG pipeline for semantic search across biomedical corpora.
+
+**↑ 40%** retrieval relevance vs. naive RAG
+**< 50ms** retrieval latency
+**< 200ms** voice round-trip
+
+`FastAPI` `LiveKit` `Qdrant` `CrewAI` `LlamaIndex` `GPT-4o`
+
+</td>
+<td width="33%" valign="top">
+
+**`FILE-002 · class::OPS`**
+
+### [RecoMe](https://github.com/NikhilOO7/recome)
+
+Behavioral recommendation engine modeling cross-platform user preferences and interaction patterns for content discovery.
+
+Hybrid ranking · collaborative + content-based + behavioral signals
+Sub-second feed personalization
+
+`Python` `FastAPI` `PostgreSQL` `Redis` `scikit-learn` `Pandas`
+
+</td>
+<td width="33%" valign="top">
+
+**`FILE-003 · class::ALPHA`**
+
+### [Gaussian Splatting KG](https://github.com/NikhilOO7/gaussian-splatting)
+
+3-agent LLM pipeline (extractor → resolver → validator) ingesting academic papers into a structured knowledge graph.
+
+**40+** chunked entities per paper
+**6 nodes · 6 edges** typed ontology
+
+`Hono` `Drizzle ORM` `GPT-4o` `React Flow` `TypeScript`
+
+</td>
+</tr>
+</table>
+
+<div align="right">
+
+[`→ View entire archive`](https://nikhilbindal.com/projects)
+
+</div>
+
+---
+
+## `> ./production_metrics`
+
+```
+73%   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░  latency reduction · 6-agent orchestration  (36s → 9.5s)
+22K   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░  TPS sustained · exactly-once Kafka pipelines
+8.4M  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░  daily requests served · TOI+ subscription platform
+40%   ▓▓▓▓▓▓▓▓░░░░░░░░░░░░  retrieval relevance lift · multi-level semantic RAG
+15+   ▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░  specialized AI agents · production orchestration
+```
+
+---
+
+## `> ./stack`
+
+```
+AI / ML      ▸  Python · FastAPI · LangGraph · CrewAI · LlamaIndex · Qdrant · GPT-4o · Claude · Gemini Live
+Voice & RT   ▸  LiveKit · WebRTC · Deepgram · Cartesia · streaming STT/TTS
+Backend      ▸  Node.js · Express · NestJS · TypeScript · Spring Boot · Java · Python
+Data         ▸  PostgreSQL · Redis · MongoDB · Kafka · ClickHouse · Qdrant
+Infra        ▸  Docker · Kubernetes · GCP Cloud Run · AWS · Terraform · Prometheus · Grafana
+Frontend     ▸  React · Next.js · TypeScript · TailwindCSS · D3.js
+Workflow     ▸  Claude Code · Cursor · GitHub Copilot · AI-native engineering
+```
+
+---
+
+## `> ./doctrine`
+
+> **`01 · craft`** &nbsp; Production-first — build like a 3am page is coming. Observability and idempotency designed in, not bolted on.
+>
+> **`02 · vision`** &nbsp; AI as leverage — agentic systems compound human decisions, never replace judgment. Human-in-the-loop on every escape hatch.
+>
+> **`03 · velocity`** &nbsp; Ship, then polish — instrument production first, optimize on data, not on the design doc.
+>
+> **`05 · judgment`** &nbsp; Strong opinions, loose grip — argue hard with evidence, drop the position cleanly when better evidence arrives.
+
+<div align="right">
+
+[`→ Full doctrine`](https://nikhilbindal.com/about)
+
+</div>
+
+---
+
+<div align="center">
+
+### `> ./github_stats`
+
+<a href="https://github.com/NikhilOO7">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NikhilOO7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=c9d1d9" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilOO7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=D4AF37&text_color=c9d1d9&langs_count=8" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilOO7&theme=tokyonight&hide_border=true&background=0d1117&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37" height="180" />
+
+<br/><br/>
+
+`◇ end of dossier · file sealed`
+
+</div>
